@@ -1,4 +1,4 @@
-## Hi there 👋
+## 📌Este repositorio es para los trabajos Universitarios
 
 <!--
 **JesusMirand/JesusMirand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
